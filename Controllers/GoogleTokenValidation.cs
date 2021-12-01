@@ -8,7 +8,7 @@ using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace WebApplication2.Controllers
+namespace DotNetExperiment.Controllers
 {
     [ApiController]
     [Route("[controller]")]
